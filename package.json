@@ -1,0 +1,20 @@
+{
+  "name": "magic-8bl",
+  "version": "1.0.0",
+  "description": "The wisdom of the magic 8-ball, available whenever you need it",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nbarnabee/magic-8bl.git"
+  },
+  "author": "Nicole Barnabee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nbarnabee/magic-8bl/issues"
+  },
+  "homepage": "https://github.com/nbarnabee/magic-8bl#readme"
+}
